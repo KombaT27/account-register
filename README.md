@@ -14,3 +14,6 @@ Schutz gegen zu viele Anfragen
 Hinweis
 
 Das ist nur eine Demo Version ohne komplette Integration.
+
+Die Demo ist bewusst reduziert.
+Im Original System sind zusätzlich Rate-Limiting, Logging und Datenbankanbindung enthalten.
